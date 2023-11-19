@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'adhoc-meetings'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84FA8E49DCA94D6FA991A1E5D8127E25 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2BC2F9216D546EB93EFC21AAA109633 }}
           package: .
